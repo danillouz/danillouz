@@ -1,6 +1,6 @@
 ### Hi! 👋 Welcome to my GitHub.. 😬
 
-<img src="./img/darkest-timeline.gif" alt="A cool gif" />
+<img src="https://github.com/danillouz/danillouz/blob/master/img/darkest-timeline.gif" alt="A cool gif" />
 
 <!--
 **danillouz/danillouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
